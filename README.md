@@ -1,0 +1,2 @@
+# norite
+Small game.
