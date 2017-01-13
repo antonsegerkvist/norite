@@ -1,5 +1,7 @@
 # Norite
-Norite is a game about digging for resources and selling them.
+This is a small game that is intended to resemble the game Transport Tycoon Deluxe.
+The major difference is that the game builds on top of blocks rather than having
+an isometric tiles.
 
 ## Dependecies
 The project maintains a list of dependecies and and may or may not work with other
